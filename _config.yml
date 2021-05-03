@@ -2,7 +2,7 @@ theme: minima
 title: "Kirby: One of the best video game titles out there!"
 author: Vaseeka
 email: vbala3@ocdsb.ca
-description: > "This site is dedicated to... me! Oh, and my favarite video game series in the world."
+description: "This site is dedicated to... me! Oh, and my favarite video game series in the world."
 
 # social links
 github_username:  vbala3 # DO NOT include the @ character, or else the build will fail!
